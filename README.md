@@ -4,9 +4,6 @@
 **Enterprise-Grade Hotel Network Infrastructure Design & Implementation**
 
 
-
-## **📝 Complete Description (Beginner-Friendly)**
-
 This project involved creating a **modern, secure, and reliable computer network** for a hotel that has multiple departments — **Reception**, **Guest Rooms**, **Restaurant**, **Administration**, and **Security**. The goal was to ensure that **all departments could communicate efficiently**, share resources when needed, and **stay protected from security threats**.
 
 We started by **planning the entire network structure**. Each department was placed in its **own virtual network** (called a **VLAN** – Virtual Local Area Network). This ensures that, for example, the Security department’s systems are kept separate from the Guest Wi-Fi, so **private data stays safe** and network traffic doesn’t get congested.
