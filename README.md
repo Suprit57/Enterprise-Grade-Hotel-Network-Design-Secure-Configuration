@@ -1,5 +1,4 @@
 
-## **📡 Project Title**
 
 # **Enterprise-Grade Hotel Network Infrastructure Design & Implementation**
 
