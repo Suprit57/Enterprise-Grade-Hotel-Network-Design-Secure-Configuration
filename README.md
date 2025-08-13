@@ -1,7 +1,7 @@
 
 ## **📡 Project Title**
 
-#**Enterprise-Grade Hotel Network Infrastructure Design & Implementation**
+**##**Enterprise-Grade Hotel Network Infrastructure Design & Implementation****
 
 
 This project involved creating a **modern, secure, and reliable computer network** for a hotel that has multiple departments — **Reception**, **Guest Rooms**, **Restaurant**, **Administration**, and **Security**. The goal was to ensure that **all departments could communicate efficiently**, share resources when needed, and **stay protected from security threats**.
